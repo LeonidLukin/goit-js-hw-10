@@ -1,4 +1,4 @@
-export function countryСardTeemplate({
+export function countryСardTemplate({
   flags,
   name,
   capital,
